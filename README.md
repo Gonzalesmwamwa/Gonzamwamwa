@@ -1,8 +1,13 @@
 Home: This is the landing page where you can get a quick introduction to me and my web development expertise.
+
 About: Dive deeper into my background, experience, and passion for creating engaging web solutions.
+
 Skills and Expertise: Discover the technical skills and design knowledge I utilize to bring your digital visions to life. (Section ID: #skills)
+
 Projects: Explore a showcase of my projects, each contributing to the UN Sustainable Development Goal (SDG) 4: Quality Education. (Section ID: #project)
+
 SDG Selection: Learn more about my commitment to using technology for social good and how my projects contribute to SDG 4. (Section ID: #sdg)
+
 Contact: Reach out and connect with me! This section includes links to my social media profiles (replace with your actual links) and an email address (replace with your email address). (Section ID: #contact)
 Additional Navigation:
 
